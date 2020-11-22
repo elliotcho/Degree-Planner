@@ -127,7 +127,7 @@ class CourseInfo extends Component{
                     {creq.length>0? <Requisites list={(creq)}  type="creq"/>:null}
                     {cred?<p>Credits: {cred}</p> : null}
                     <label htmlFor="courseLink"><strong>For More Info:</strong> </label>
-                    <Link className="ml-2"  to={link} id="courseLink">{link}</Link>
+                    <a className="ml-2"  href={link} id="courseLink">{link}</a>
                     {!exists?
                         (<div className="row">
                             {/* TODO - Conditionally render which button --> Add to Courses / Remove Course */}
