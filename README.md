@@ -30,8 +30,8 @@ The frontend uses React,js, Redux, Apache E-Charts, and is stylized using Bootst
 
 
 <h3>Architecture </h3>
-The server is modelled using a Model - Controller - Route architecture, and makes use of REST API. The Models are schemas that allows us to access and update attributes
-that belong to them. The Controller uses Models to execute certain operations as specified by the client. The Route basically allows us to organize each http request
+The server is modelled using a Model - Controller - Route architecture, and makes use of REST API. The Models allows us to access and update attributes
+from the database. The Controller uses Models to execute certain operations as specified by the client. The Route basically allows us to organize each http request
 accordingly. 
 
 <h3>Future Plans </h3>
