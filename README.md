@@ -1,7 +1,7 @@
 <h1>Degree Planner</h1>
 
 <hr>
-Degree Planner is a web platform that allows students to plan out their degree and evaluate their options. Students can see a dynamic chart that lays out all the necessary courses for a specific program. Degree Planner has access to all courses offered by a student's university. Check out our submission here: https://devpost.com/software/degree-planner-m4hdal 
+Degree Planner is a web platform that allows students to plan out their degree and evaluate their options. Students can see a dynamic chart that lays out all the necessary courses for a specific program. Degree Planner has access to all courses offered by a student's university. Check out our submission <a href='https://devpost.com/software/degree-planner-m4hdal'>here.</a> 
 
 <h3>Tech Stack</h3>
 The frontend uses React,js, Redux, Apache E-Charts, and is stylized using Bootstrap and Material-UI. As for the backend, we used Express.js, Node.js, MongoDB, and Redis. We used a public API to populate our database using courses from the University of British Columbia. 
